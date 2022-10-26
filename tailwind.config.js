@@ -7,9 +7,9 @@ module.exports = {
   theme: {
     extend: {
       fontfamily: {
-        inter: ['Inter', 'sans-serif']
-      }
+        inter: ["Inter", "sans-serif"],
+      },
     },
   },
   plugins: [],
-}
+};
