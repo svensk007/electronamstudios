@@ -17,7 +17,18 @@ export default function Home() {
             <h1>Title</h1>
           </nav>
           <div>
-            <h1>Hi! 👋 Welcome to <span className="bg-gradient-to-r from-fuchsia-600 to-sky-600">El3ctroNam</span> Studios</h1>
+            <h1 className="text-2xl">
+              Hi! 👋 Welcome to{" "}
+              <span
+                className="text-9xl font-semibold 
+            bg-gradient-to-r bg-clip-text  text-transparent 
+            from-fuchsia-600 via-sky-500 to-fuchsia-600
+            animate-text"
+              >
+                El3ctroNam
+              </span>{" "}
+              Studios
+            </h1>
           </div>
         </section>
       </main>
