@@ -16,6 +16,9 @@ export default function Home() {
           <nav>
             <h1>Title</h1>
           </nav>
+          <div>
+            <h1>Hi! 👋 Welcome to <span className="bg-gradient-to-r from-fuchsia-600 to-sky-600">El3ctroNam</span> Studios</h1>
+          </div>
         </section>
       </main>
     </div>
