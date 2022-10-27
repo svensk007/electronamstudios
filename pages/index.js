@@ -5,7 +5,7 @@ import styles from "../styles/Home.module.css";
 
 export default function Home() {
   return (
-    <div lang="en-US">
+    <div>
       <Head>
         <title>El3ctroNam Studios</title>
         <meta name="Portfolio for El3troNam Studios" content="Portfolio" />
