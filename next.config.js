@@ -3,5 +3,10 @@ const nextConfig = {
   reactStrictMode: true,
   swcMinify: true,
 };
-
+module.exports = {
+  images: {
+    loader: 'akamai',
+    path: '',
+  },
+}
 module.exports = nextConfig;
