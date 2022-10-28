@@ -13,8 +13,10 @@ export default function Home() {
       </Head>
       <main className="font-Inter bg-black">
         <section>
-          <nav>
-            <h1>Title</h1>
+          <nav className="py-6 pt-1">
+            <div>
+              <a>Hello!</a>
+            </div>
           </nav>
           <div>
             <h1 className="text-2xl">
