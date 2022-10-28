@@ -11,15 +11,15 @@ export default function Home() {
         <meta name="Portfolio for El3troNam Studios" content="Portfolio" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
-      <main className="font-Inter bg-black">
+      <main>
         <section>
-          <nav className="py-6 pt-1">
+          <nav className="py-6 pt-1 font-Inter bg-gray-800">
             <div>
               <a>Hello!</a>
             </div>
           </nav>
           <div>
-            <h1 className="text-2xl">
+            <h1 className="text-2xl bg-black">
               Hi! 👋 Welcome to{" "}
               <span
                 className="text-9xl font-semibold 
